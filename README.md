@@ -1,6 +1,6 @@
 # Pitch Black Recovery Project(PBRP)-Unofficial
 Xiaomi Poco X3 Pro;
-Android 13.0; 
+Android 13; 
 Qualcomm Snapdragon SDM860; 
 64-bit ARMv8-A; 
 1080x2400; 
